@@ -31,13 +31,13 @@
 
 !!! tip "GAME ASSIGNMENTS"
 
-	- After saving your segatools.ini, launch the game and go into the Service Menu > and go to ```GAME ASSIGNMENTS```.
+	- After saving your segatools.ini, launch the game and go into the Service Menu and go to `GAME ASSIGNMENTS`.
 	<img src="/img/chunithm/sdhd/c2c/service.png">
 
-	- Enable ```CABINET-TO-CABINET PLAY```, and make sure all machine are on the same group (Group A for example).
+	- Enable `CABINET-TO-CABINET PLAY`, and make sure all machine are on the same group (Group A for example).
 	<img src="/img/chunithm/sdhd/c2c/group.png">
 
-	- Set one machine to ```STANDARD```, and all other machines to ```FOLLOW THE STANDARD``` .
+	- Set one machine to `STANDARD`, and all other machines to `FOLLOW THE STANDARD`.
 	<img src="/img/chunithm/sdhd/c2c/standard.png">
 	<img src="/img/chunithm/sdhd/c2c/followstandard.png">
 

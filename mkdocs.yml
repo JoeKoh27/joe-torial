@@ -143,6 +143,11 @@ nav:
               - "Nijiiro":
                   - "Game Setup": "games/taikonijiiro/setup.md"
                   - "Troubleshooting": "games/taikonijiiro/troubleshooting.md"
+          - "Wangan Midnight Maximum Tune":
+              - "5DX+/6/6R/6RR":
+                  - "Game Setup": "games/wmmt/setup.md"
+                  - "VS Battle Setup": "games/wmmt/c2c.md"
+                  - "Troubleshooting/Extras": "games/wmmt/troubleshooting.md"
   - Error Codes:
     - BEMANI: "errorcodes/bemani.md"
     - SEGA: "errorcodes/sega.md"

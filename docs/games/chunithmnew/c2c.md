@@ -31,7 +31,7 @@
 
 !!! tip "GAME ASSIGNMENTS"
 
-	- After saving your segatools.ini, launch the game and go into the Service Menu > and go to ```GAME ASSIGNMENTS```.
+	- After saving your segatools.ini, launch the game and go into the Service Menu and go to ```GAME ASSIGNMENTS```.
 	<img src="/img/chunithm/sdhd/c2c/service.png">
 
 	- Enable ```CABINET-TO-CABINET PLAY```, and make sure all machine are on the same group (Group A for example).
